@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/my_first_directory | which /tmp/my_first_directory
+rm /tmp/my_first_directory | file /tmp/my_first_directory
