@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p ~/tmp/h/my_dir | cd ~/tmp/h/my_dir | find . -type d -print0 | xargs -0 chmod 751 my_dir
